@@ -1,8 +1,3 @@
-
-
-
-
-
 :root {
   --Pink: hsl(322, 100%, 66%);
   --pale-cyan: hsl(193, 100%, 96%);
@@ -23,22 +18,14 @@ body::-webkit-scrollbar {
   width: 0.25em;
 }
 
-
 body::-webkit-scrollbar-track {
   background: var(--pale-cyan);
 }
-
-
 
 body::-webkit-scrollbar-thumb {
   background: rgb(152, 152, 197);
   border-radius: 20px;
 }
-
-
-
-
-
 
 header {
   display: flex;
