@@ -67,7 +67,7 @@ header img {
 
 #😁 p {
   width: 475px;
-  color: var(--grayish-blue);
+  font-size: 14px;
 }
 
 #😁 button {
