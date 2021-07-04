@@ -67,6 +67,7 @@ header img {
 
 #😁 p {
   width: 475px;
+  color: var(--grayish-blue);
 }
 
 #😁 button {
@@ -108,7 +109,7 @@ header img {
   display: grid;
   justify-items: center;
   margin-top: 70px;
-  margin-bottom: 300px;
+  margin-bottom: 240px;
 }
 
 #started {
